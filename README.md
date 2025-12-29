@@ -32,9 +32,9 @@ Scenario analysis and simulation (where applicable)
 
 ## Current Status
 
-Data modeling and preparation: in progress
+Data modeling and preparation: Done
 
-Core analytical framework: in progress
+Core analytical framework: Done
 
 Results validation and interpretation: pending
 
